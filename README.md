@@ -1,1 +1,1 @@
-
+I recently completed a web development assignment that involved building a small website using HTML, CSS, JavaScript, and Bootstrap 📚. I took this opportunity seriously and decided to code the entire website myself, which was a first for me 🎉. As expected, it took a significant amount of time and effort to complete, but I learned a lot throughout the process and gained valuable hands-on experience 📊. This exercise helped me apply theoretical concepts to a real-world scenario and solidify my understanding of front-end development 💡.
