@@ -1,1 +1,8 @@
-I recently completed a web development assignment that involved building a small website using HTML, CSS, JavaScript, and Bootstrap 📚. I took this opportunity seriously and decided to code the entire website myself, which was a first for me 🎉. As expected, it took a significant amount of time and effort to complete, but I learned a lot throughout the process and gained valuable hands-on experience 📊. This exercise helped me apply theoretical concepts to a real-world scenario and solidify my understanding of front-end development 💡.
+A simple and responsive personal website built using HTML, CSS, JavaScript, and Bootstrap. This website showcases my skills and experience as a web developer and features:
+
+- Clean and modern design
+- Responsive layout for optimal viewing on various devices
+- Interactive elements and animations
+- Basic contact form and social media links
+
+This project was created as a personal exercise in web development and is intended to serve as a portfolio piece.
