@@ -6,3 +6,16 @@ A simple and responsive personal website built using HTML, CSS, JavaScript, and 
 - Basic contact form and social media links
 
 This project was created as a personal exercise in web development and is intended to serve as a portfolio piece.
+Features:
+
+- Responsive design
+- Interactive elements
+- Basic contact form
+- Social media links
+
+Technologies used:
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
